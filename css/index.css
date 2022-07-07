@@ -22,7 +22,7 @@ header {
   justify-content: space-between;
   background-color: #6699cc;
   padding: 0 30px;
-  height: 150px;
+  height: 110px;
 }
 
 .menu__principal {
@@ -44,7 +44,7 @@ header {
 h1 {
   display: flex;
   align-items: center;
-  font-size: 35px;
+  font-size: 20px;
 }
 
 .contador {
@@ -54,7 +54,7 @@ h1 {
   background-color: #f60;
   justify-content: space-between;
   padding: 0 30px;
-  height: 100px;
+  height: 90px;
   align-items: center;
 
 }
