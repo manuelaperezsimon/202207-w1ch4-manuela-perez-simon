@@ -65,3 +65,19 @@ h1 {
 .texto {
   font-size: 35px;
 }
+
+.compra{
+  display: flex;
+  background-color: #ff9933;
+  min-height: 100vw;
+}
+
+.lista-compra > li {
+  list-style: none;
+}
+
+.lista-compra__item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
